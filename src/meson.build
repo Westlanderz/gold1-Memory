@@ -1,0 +1,6 @@
+
+executable('memview',
+    [
+    'main.cpp',
+    ]
+)
